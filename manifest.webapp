@@ -1,0 +1,11 @@
+{
+  "name": "Google Adwords Web",
+  "description": "Load Google Adwords on the Web",
+  "launch_path": "/",
+  "icons": {
+    "32":  "/icons/adwords32.png",
+    "64":  "/icons/adwords64.png",
+    "128": "/icons/adwords128.png",
+    "256": "/icons/adwords256.png"
+  }
+}
